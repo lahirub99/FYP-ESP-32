@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/Lahiru Bandara/Documents/PlatformIO/Projects/230925-155751-arduino-wifiscan"
+		},
+		{
+			"name": "Test1",
+			"path": ".."
+		},
+		{
+			"name": "Test02",
+			"path": "../../Test02/Test02"
+		}
+	],
+	"settings": {}
+}
